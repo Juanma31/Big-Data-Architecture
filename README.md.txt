@@ -1,4 +1,4 @@
-##Brainstorm
+## Brainstorm
 
 -	Quiero usar el dataset de airbnb
 -	Quiero enriquecer esos datos con algo para ofrecer un servicio
