@@ -49,3 +49,7 @@ Desarrollo de la plataforma DAaaS.
 -	El api la voy a levantar con Node
 -	En kafka tengo que crear una cola
 -	Y tendría un job de Hadoop mágico que me cogiera los datos de hdfs de twitter, los uniria con los de airbnb, y me extraería los mejores por location de los tweets vs location de los airbnb.
+
+
+Enlace al diagrama:
+https://drive.google.com/drive/folders/1rjc5CqMbAZOdTG4wnCtMvkQgHoiv_JkA?usp=sharing
